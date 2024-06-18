@@ -1,7 +1,7 @@
 # Mobile system convergence and practice
 모바일 시스템 융합 및 실습 전공 과목에서 진행한 개인 프로젝트입니다. Rasberry Pi4를 이용하여 구현하였습니다.
 
-## 💻Samrt QR code door opening closing system
+## 💻Smart QR code door opening closing system
 랜덤 QR코드를 생성한 후 지정한 메일로 전송하여 QR코드의 유효성에 따라 문을 제어하는 프로그램입니다.
 
 ## ⏰개발시간
