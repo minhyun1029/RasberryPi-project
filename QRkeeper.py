@@ -39,7 +39,7 @@ def send_email(address, attachment_path, qr_string):
     session.set_debuglevel(True)
     session.ehlo()
     session.starttls()
-    session.login('manhyun7355@gmail.com', 'nvnx eexs kkfg wbej')
+    session.login('manhyun7355@gmail.com', '앱 비밀번호')
 
     message = MIMEMultipart("mixed")
     message.set_charset('utf-8')
